@@ -1,0 +1,9 @@
+{
+    "api_key":"",
+    "domain": "",
+    "password": "x",
+     "Url_Article":".freshdesk.com/api/v2/solutions/folders/[ID_ARTICLE]/articles",
+     "Url_Categories": ".freshdesk.com/api/v2/solutions/categories",
+     "Url_Agent": ".freshdesk.com/api/v2/agents",
+     "Url_Folders": ".freshdesk.com/api/v2/solutions/categories/[ID_Categories]/folders"
+ }
