@@ -1,5 +1,5 @@
 # Freshdesk-Information-Extraction-API
-This project allows one to easily extract metrics from freshdesk api and generate a CSV file with those information.
+This project allows one to easily extract metrics from freshdesk api and generate a CSV file with those informations.
 
 # Configuration
 On config.json file there are two fields that must be filled before the actually usage. The fields are "api_key" and "domain".
